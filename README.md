@@ -6,22 +6,22 @@ A modern, responsive UI prototype for the WearMai mobile application, built with
 
 This repository contains the frontend implementation of the WearMai mobile application UI prototype. The project is built with modern web technologies and follows best practices for component architecture and state management.
 
-## 🚀 Project Context – Refined Back-End Prototype
-This repository houses the second, improved version of the back-end system built for the LLM-based running coach interface. Like the initial prototype, it was developed in Python and supports both Gemini and OpenAI models, with extensibility for other LLMs.
+## 🎨 Project Context – Initial UI Prototype
+This repository features the exploratory, mid-fidelity UI prototype for the runner coaching interface, built using React, Tailwind CSS, and CDN-based libraries.
 
-This refined version incorporates direct feedback from users of the initial prototype, addressing key issues such as model accuracy, interaction flow, and feedback clarity. Enhancements include:
+The goal of this version was to rapidly prototype and test various screen layouts, interaction flows, and information hierarchies. The interface includes over 11 distinct screens with multiple variants, enabling users to engage with an interactive wireframe that simulates the coaching experience.
 
-Speech recognition support
+This version was intentionally exploratory — focusing on:
 
-Improved LLM response quality
+Information architecture
 
-Cleaner, more structured feedback outputs
+Visual hierarchy
 
-Basic data visualisation capabilities
+Component structure
 
-The prototype serves as a testbed for enhanced interaction between time-series running data and LLM-generated coaching responses, aiming to improve the quality and contextual relevance of system feedback.
+Tone of feedback presentation
 
-It was created to evaluate how the improved features perform in comparison to the first prototype, and to iteratively advance the LLM-runner communication interface based on user-centered design principles.
+It allowed for quick iteration based on user input, helping the research team gather early insights into usability and interface preferences before committing to high-fidelity development.
 
 ## Tech Stack
 
